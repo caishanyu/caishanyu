@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on TP-LINK.CO HZ
 - - 📫 How to reach me: sybstudy@yeah.net
 
-![Stats](https://github-readme-stats.vercel.app/api?username=caishanyu&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=caishanyu&show_icons=true&theme=tokyonight) ![Streak](https://streak-stats.demolab.com?user=caishanyu&theme=github-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caishanyu&layout=compact)
-
-![Streak](https://streak-stats.demolab.com?user=caishanyu&theme=github-dark)
 
